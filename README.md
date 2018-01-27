@@ -21,4 +21,6 @@ And to the library applies what you can already get is working but lacks a lot o
 
 I'm on both, the library and some more documentation. But the time I spend into it shares with my job and my family. 
 The good thing is you can priorize how things going on. To start on, simply give me any feedback. It surely gives 
-a lot of motivation if someount out there really uses clinj. Or would if this or that works better. Got the point?
+a lot of motivation if someount out there really uses clinj. Or would if this or that works better. Got the point? 
+
+To get in touch, you can send an e-mail to mail@jmens.de or use the github issue tracker.
