@@ -10,7 +10,7 @@ There are free trial periods for each product, so can easily evaluate clinj with
 sipgate currently 
 develops a single seat product designed for being integrated into third party software. This product consists of several 
 components including an account providing api access, flatrates, fax and sms services and several more. 
-This product is called clinq and is available ad https://www.clinq.com. 
+This product is called clinq and is available ad https://www.clinq.is. 
 (Any guesses what strongly influeced this librarys name?)
 
 # Outlook and further reading
@@ -24,3 +24,5 @@ The good thing is you can priorize how things going on. To start on, simply give
 a lot of motivation if someount out there really uses clinj. Or would if this or that works better. Got the point? 
 
 To get in touch, you can send an e-mail to mail@jmens.de or use the github issue tracker.
+
+Just in case you didn't already guessed: This library is done to the best of my knowledge and believe, but it comes without any warranty...
