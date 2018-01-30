@@ -1,5 +1,8 @@
 # What is this all about?
 This project provides examples on how to easily integrate communication services into an java application using clinj.
+So - what is clinj? Clinj is both, a complete headless softphone on its way to become full featured as well as an api library to access everything needed to use a phone conveniently. 
+
+E.g. you can fetch call details for any previously finished phonecall. Details as call duration, remote party, etc. The API does not only give you access to your call history, contact information etc. it also gives you access to further communication channels like SMS or fax.
 
 # Where do the services actually come from?
 clinj is just an api library. The telecommunication service provider is sipgate. To use clinj, you need any 
