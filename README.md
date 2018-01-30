@@ -7,7 +7,7 @@ Clinj is both, a complete headless softphone on its way to become full featured 
 E.g. you can fetch call details for any previously finished phonecall. Details as call duration, remote party, etc. The API does not only give you access to your call history, contact information etc. it also gives you access to further communication channels like SMS or fax.
 
 # Where do the services actually come from?
-clinj is just an api library. The telecommunication service provider is sipgate. To use clinj, you need any 
+As state above, clinj is just a softphone bundled with some very convenient api library. The telecommunication service provider is sipgate. To use clinj, you need any 
 sipgate account that grants telephone and api usage. This applies to any sipgate product except trunking. 
 
 There are free trial periods for each product, so you can easily evaluate clinj without any further costs or risks. 
